@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "martin",
+        "apellidos": "Garcia",
+        "telefono": "649675956",
+        "email": "kyren.mgc@gmail.com",
+        "password": "dddd4",
+        "imagen": "imagen_perfil_peque\u00f1a.jpg"
+    },
+    {
+        "nombre": "martin",
+        "apellidos": "garcia",
+        "telefono": "555999",
+        "email": "adolfo@afolf.com",
+        "password": "a777777",
+        "imagen": ""
+    },
+    {
+        "nombre": "juan",
+        "apellidos": "martinez",
+        "telefono": "64967596",
+        "email": "a@kk.com",
+        "password": "a999999",
+        "imagen": ""
+    },
+    {
+        "nombre": "Juan",
+        "apellidos": "Garcia Morales",
+        "telefono": "644444",
+        "email": "juan@juan.com",
+        "password": "A123456",
+        "imagen": ""
+    },
+    {
+        "nombre": "nuria",
+        "apellidos": "lopez",
+        "telefono": "64967559",
+        "email": "nuria@nuria.com",
+        "password": "N123456",
+        "imagen": ""
+    },
+    {
+        "nombre": "pedro",
+        "apellidos": "garcia",
+        "telefono": "garcia",
+        "email": "p@g.com",
+        "password": "b111111",
+        "imagen": ""
+    },
+    {
+        "nombre": "MARI",
+        "apellidos": "A",
+        "telefono": "9999",
+        "email": "k@k.com",
+        "password": "a111111",
+        "imagen": ""
+    }
+]
