@@ -1,0 +1,43 @@
+[
+    {},
+    {
+        "nombre": "Martin",
+        "apellidos": "Garcia",
+        "telefono": "649675956",
+        "email": "kyren.mgc@gmail.com",
+        "password": "$2y$10$hLUxsAk4YyOcq4vjGKv0RuJqGFXzP1ffgRtlXGMbgSCwu0veU64t2",
+        "imagen": ""
+    },
+    {
+        "nombre": "pedro",
+        "apellidos": "aaaa",
+        "telefono": "meneame",
+        "email": "a@kk.com",
+        "password": "$2y$10$6DwRlzHpyhJcf9TeyPxhpeflK9Iz6RV.qDPxY\/xX5Ap1WZvwhIdGa",
+        "imagen": ""
+    },
+    {
+        "nombre": "jose",
+        "apellidos": "garcia",
+        "telefono": "649675956",
+        "email": "meneame@m.com",
+        "password": "$2y$10$lrEJPOySDXewekRL0rfzBe24Wst5M3h.qaBkcz9khxeIaX8RyO7s2",
+        "imagen": ""
+    },
+    {
+        "nombre": "mario",
+        "apellidos": "martin",
+        "telefono": "649675956",
+        "email": "m@m.com",
+        "password": "$2y$10$H6c6vXAfb8K5rTziyz.bZu9wf0F4tRQ50jXy8tIqJBw7.Uj145YE6",
+        "imagen": ""
+    },
+    {
+        "nombre": "mario",
+        "apellidos": "martin",
+        "telefono": "649675956",
+        "email": "j@j.com",
+        "password": "$2y$10$YyzXzZPdnc9yVzQ3rfNPu.YmX\/ysp5tXSxVQ20nGiqT.teSyGKUxC",
+        "imagen": ""
+    }
+]
