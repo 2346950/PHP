@@ -35,9 +35,9 @@ session_start();
             $contraseña=$_SESSION["password"];
             $apellidos=$_SESSION["apellidos"];
         
-            print("Nombre Usuario: $nombreUsuario <br>");
-            print("Contraseña: $contraseña <br>");
-            print("Foto perfil: $image <br>");
+            // print("Nombre Usuario: $nombreUsuario <br>");
+            // print("Contraseña: $contraseña <br>");
+            // print("Foto perfil: $image <br>");
             
             
             print "<table border='1'>";
