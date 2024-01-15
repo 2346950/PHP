@@ -1,5 +1,5 @@
 <?php
-session_destroy();
+
 session_name("sesion_user");
 session_start();
 
@@ -63,7 +63,11 @@ else{
 
 
   file_put_contents($file, $json_lista_usuarios);
- 
+  
+  setcookie("ultimo_usuario",$email,time()+3600*24*10,"/");
+  $fecha_hora = date("d-m-Y H:i:s");
+  setcookie("ultimo_usuario_fecha",$fecha_hora,time()+3600*24*10,"/");
+                         
 
  }
 

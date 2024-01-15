@@ -1,5 +1,4 @@
 [
-    {},
     {
         "nombre": "Martin",
         "apellidos": "Garcia",
@@ -38,6 +37,38 @@
         "telefono": "649675956",
         "email": "j@j.com",
         "password": "$2y$10$YyzXzZPdnc9yVzQ3rfNPu.YmX\/ysp5tXSxVQ20nGiqT.teSyGKUxC",
+        "imagen": ""
+    },
+    {
+        "nombre": "pedr",
+        "apellidos": "adolfo",
+        "telefono": "333",
+        "email": "p@p.com",
+        "password": "$2y$10$\/XAHrrBt9CBd9nZCnJkyfeitBnOx8d30UiriMtYdC\/D3BF7B8dT8e",
+        "imagen": ""
+    },
+    {
+        "nombre": "a",
+        "apellidos": "b",
+        "telefono": "123456",
+        "email": "a@a.com",
+        "password": "$2y$10$JS2swyGtPLowH0fs.xrCJ.jPTB8A13qB1dkd7e3IwGnXZy7bAH.fG",
+        "imagen": ""
+    },
+    {
+        "nombre": "mario",
+        "apellidos": "g",
+        "telefono": "123456",
+        "email": "jose@josek.com",
+        "password": "$2y$10$3hwPhn5iO3s.dYjyFLdtaeLT03zWaB1AXqLRYOiq9swJREE4YQdCm",
+        "imagen": ""
+    },
+    {
+        "nombre": "mario",
+        "apellidos": "jose",
+        "telefono": "88888",
+        "email": "lo@lo.com",
+        "password": "$2y$10$85tNx0Ht1zsWNUfRmCUsH.RBAxaGFfdMCX0ivM6wwn4adzkV1oO\/G",
         "imagen": ""
     }
 ]
